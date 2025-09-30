@@ -14,4 +14,4 @@ Have fun 🙂
 
 --- Conclusion ---
 
-If you have found bags or want to some new function, please write it directly to my discrod :jokerge:
+If you have found bugs or want to some new function, please write it directly to my discrod :jokerge:
