@@ -8,7 +8,9 @@ Have fun 🙂
 --- KNOWN ISSUES ---
 
 1. Pictures doesn't display right, it's because of origin files
-2. UI is pretty bad, I dont bother
+2. No pictures for heroes
+3. Card shows up in list at the moment it drops 
+4. UI is pretty bad, I dont bother
 
 --- Conclusion ---
 
