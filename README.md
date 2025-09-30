@@ -10,6 +10,6 @@ Have fun 🙂
 1. Pictures doesn't display right, it's because of origin files
 2. UI is pretty bad, I dont bother
 
---- Conclude ---
+--- Conclusion ---
 
 If you have found bags or want to some new function, please write it directly to my discrod :jokerge:
